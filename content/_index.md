@@ -12,7 +12,7 @@ I have some things I've been meaning to share with you.
 <div class="section">
 <div class="section-title">Cuesmes, July 1880</div>
 
-`My dear Theo,`
+My dear `Theo,`
 
 I am writing to you again rather soon, and perhaps it is not so very necessary to do so, but I want to tell you just a few things. I am trying now to get some more insight into the miners' work; I have spoken to some of them in the past few days, and it strikes me again how different they are from what one might think them to be. Certainly they are rough and unpolished on the outside, but at the same time one finds in them a certain delicacy and a peculiar inward devotion to their work that touches me.
 
@@ -28,7 +28,7 @@ There are so many things that I want to say, but I do not want to be too verbose
 
 So now I conclude by wishing you well and sending you my regards. Write to me soon, if you can, for I often feel the need of a word from you.
 
-`Yours affectionately,`
+Yours affectionately,<br>
 `Vincent`
 
 </div>
