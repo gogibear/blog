@@ -41,8 +41,6 @@ menu = 'main'
 <div class="section">
 <div class="section-title">Educational</div>
 
-List of interesting blogs (mostly tech focused) that I follow regularly.
-
 - [Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 
 </div>
@@ -61,5 +59,12 @@ List of interesting blogs (mostly tech focused) that I follow regularly.
 - [Wouldn't Leave but the beat is Love Yourz](https://x.com/spectre0799/status/1866604805520572855)
 - [m.A.A.d city but the beat is Sicko Mode](https://x.com/spectre0799/status/1866255849959628805)
 - [Otis but the beat is Potato Salad](https://x.com/spectre0799/status/1856110861233877208)
+
+</div>
+
+<div class="section">
+<div class="section-title">Mend</div>
+
+If you notice any broken links send me an email: gogan@hey.com
 
 </div>
