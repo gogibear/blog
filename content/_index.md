@@ -19,13 +19,13 @@ I have some things I've been meaning to share with you.
 <div class="section">
 <div class="section-title">A Love Like That</div>
 
-*Now I keep filling up my cup,<br>
-until it spills over.<br>
+*Now I keep filling up my cup,*<br>
+*until it spills over.*<br>
 
-Before,<br>
-I kept buying bigger cups.<br>
+*Before,*<br>
+*I kept buying bigger cups.*<br>
 
-It's made all the difference.<br>*
+*It's made all the difference.*<br>
 
 </div>
 
