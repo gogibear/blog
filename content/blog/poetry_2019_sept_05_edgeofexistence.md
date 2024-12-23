@@ -1,5 +1,5 @@
 +++
-title = "Poetry_2019_sept_05_edgeofexistence"
+title = "Edge of Existence"
 date = "2019-09-05T15:31:52-08:00"
 description = "gogibear, poetry, edge of existence"
 
