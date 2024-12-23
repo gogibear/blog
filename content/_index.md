@@ -5,16 +5,32 @@ title = "gogibear"
 <div class="section">
 <div class="section-title">About</div>
 
-I'm the new Ammar Arif, but some people call me Kari (pronounced **keh**·ree). Sometimes can be seen spelled as *Karii*, *Kariy*, or *Kariiyy*.
+I have some things I've been meaning to share with you.
 
-This is a website where I post my random thoughts or cool things I want to share. I also use it as a storage space for things I don't want to forget.
+</div>
+
+<div class="section">
+<div class="section-title">Dear Theo</div>
+
+*One may have a blazing hearth in one's soul and yet no one ever comes to sit by it. Passers-by see only a wisp of smoke from the chimney, and continue on their way.*
+
+</div>
+
+<div class="section">
+<div class="section-title">Masque Off</div>
+
+*Was I deceived, or did a sable cloud<br>
+Turn forth her silver lining on the night?<br>
+I did not err; there does a sable cloud<br>
+Turn forth her silver lining on the night,<br>
+And casts a gleam over this tufted grove.<br>*
 
 </div>
 
 <div class="section">
 <div class="section-title">Socials</div>
 
-- x: [@ammarif_](https://x.com/ammarif_)
-- github: [kariy](https://github.com/kariy)
+- x: [@gogibear](https://x.com/gogibear)
+- instagram: [@gogibear](https://instagram.com/gogibear)
 
 </div>
