@@ -32,5 +32,6 @@ And casts a gleam over this tufted grove.<br>*
 
 - x: [@gogibear](https://x.com/gogibear)
 - instagram: [@gogibear](https://instagram.com/gogibear)
+- goodreads: [@gogibear](https://goodreads.com/gogibear)
 
 </div>
