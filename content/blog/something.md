@@ -13,3 +13,5 @@ tags = ["my-love-for-kariy","life","os","random",]
 I love »kariy«.
 
 thanks for deploying me bro
+
+trying to push it
