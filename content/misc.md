@@ -4,7 +4,7 @@ menu = 'main'
 +++
 
 <div class="section">
-<div class="section-title">Books</div>
+<div class="section-title">Books something else</div>
 
 - [The Soul Of A New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
 - [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist)
