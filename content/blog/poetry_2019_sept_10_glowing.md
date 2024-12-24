@@ -1,6 +1,6 @@
 +++
 title = "Glowing the Entire Time"
-date = "2024-12-23T15:59:57-08:00"
+date = "2019-09-10T15:59:57-08:00"
 
 description = "gogibear, poetry, you were glowing the entire time"
 
