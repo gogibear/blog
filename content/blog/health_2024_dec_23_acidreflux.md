@@ -3,7 +3,7 @@ title = "Stomach Healing for Acid Reflux and Indigestion"
 date = "2024-12-23T23:35:31-08:00"
 description = "indigestion, acid reflux, gerd, health, healing, marshmallow root, amla, slippery elm, licorice dgl"
 
-tags = ["health"]
+tags = ["learning"]
 +++
 
 Stomach Healing Tips for Acid Reflux & Indigestion:
