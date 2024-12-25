@@ -8,6 +8,8 @@ tags = ["learning"]
 
 Stomach Healing Tips for Acid Reflux & Indigestion:
 
+Sleep: Fix this first. Don't question your digestion if your sleep ain't right.
+
 Tea: Steep one spoonful of Marshmallow Root overnight in water, leave outside fridge at room temperature, in morning add spoon of Fennel Seeds and bring to near boil, then allow to steep for 10 minutes off heat.
 
 Tablet: Eat one Licorice (DGL) tablet in the morning and one in the evening.
