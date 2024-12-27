@@ -70,6 +70,8 @@ menu = 'main'
 - [Celine Dion & Tommy Korberg](https://x.com/historyinmemes/status/1756142944707379409)
 - [Elmiene - Someday, Tiny Desk](https://x.com/RNB_RADAR/status/1856005817293500538)
 - [Hype](https://x.com/sherlock_hodles/status/1864499940531073040)
+- [Don't Know Much - Linda Ronstadt & Aaron Neville](https://x.com/aTeXan575/status/1785407142821802172)
+- [Yeern 101 but the beat is Black&Blue](https://x.com/spectre0799/status/1872728580729520380)
 
 </div>
 
