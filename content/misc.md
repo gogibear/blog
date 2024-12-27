@@ -24,6 +24,10 @@ menu = 'main'
 - [Blueprint for Success](https://www.youtube.com/shorts/7YxoNZDtOlU)
 - [Crack Dealer with a Heart of Gold](https://www.youtube.com/watch?v=f7DqQ5lOlaU)
 - [Trump & Biden on Kill Tony](https://www.youtube.com/watch?v=ZgHR4ug866Q)
+- [Who da fook is that guy?](https://x.com/HappyPunch/status/1813923381240013027)
+- [Hands On](https://x.com/barstoolsports/status/1829004422254379413)
+- [Favourite Magic Trick](https://x.com/Grahfvillainy/status/1844855456361046323)
+- [Dagestan](https://x.com/BenTheBaneDavis/status/1866542595155038267)
 
 </div>
 
@@ -36,6 +40,7 @@ menu = 'main'
 - [What will your Verse be?](https://www.youtube.com/watch?v=-7OE6bDfM2M)
 - [The Laughing Heart](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [If](https://www.youtube.com/watch?v=NOAJahPJIRU)
+- [On Foot](https://x.com/DylanoA4/status/1849504582252065264)
 
 </div>
 
@@ -43,6 +48,7 @@ menu = 'main'
 <div class="section-title">Educational</div>
 
 - [Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
+- [Improve Your Communication](https://x.com/InterestingSTEM/status/1853381454681571493)
 
 </div>
 
@@ -62,6 +68,8 @@ menu = 'main'
 - [Otis but the beat is Potato Salad](https://x.com/spectre0799/status/1856110861233877208)
 - [STILL IN THE PAINT but the beat is 30 For 30](https://x.com/spectre0799/status/1870590560274391135)
 - [Celine Dion & Tommy Korberg](https://x.com/historyinmemes/status/1756142944707379409)
+- [Elmiene - Someday, Tiny Desk](https://x.com/RNB_RADAR/status/1856005817293500538)
+- [Hype](https://x.com/sherlock_hodles/status/1864499940531073040)
 
 </div>
 
