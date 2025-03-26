@@ -57,7 +57,7 @@ And casts a gleam over this tufted grove.<br>*
 
 `John Milton`
 
-</div> -->
+</div> 
 
 <div class="section">
 <div class="section-title">Socials</div>
@@ -67,3 +67,4 @@ And casts a gleam over this tufted grove.<br>*
 - goodreads: [@gogibear](https://goodreads.com/gogibear)
 
 </div>
+-->
