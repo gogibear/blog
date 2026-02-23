@@ -1,0 +1,19 @@
+content:
+  - name: blog
+    label: Blog Posts
+    path: content/blog
+    type: collection
+    view:
+      fields: [title, date]
+  - name: homepage
+    label: Homepage
+    path: content/_index.md
+    type: file
+  - name: misc
+    label: Misc
+    path: content/misc.md
+    type: file
+  - name: projects
+    label: Projects
+    path: content/projects.md
+    type: file
