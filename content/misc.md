@@ -18,10 +18,7 @@ menu = 'main'
 - [Coach Hears His Translator for the First Time](https://www.reddit.com/r/funny/comments/wqx5p3/coach_hears_his_translator_for_the_first_time/)
 - [Handicap Police](https://www.youtube.com/watch?v=Mqd79FlNzME)
 - [Always Accept a Free Sandwich](https://www.youtube.com/shorts/07E0Lq3BPHA)
-- Juicy Smouliet
-<video controls width="100%">
-  <source src="https://pub-bbc014f6e3534222a6619f875eff3232.r2.dev/juicy-smouliet.mp4" type="video/mp4">
-</video>
+- [Juicy Smouliet](https://media.gogibear.com/videos/juicy-smouliet.mp4)
 - [Try Not to Laugh](https://www.youtube.com/watch?v=0f2AUIdjP0k)
 - [Theo Von & Bobby Lee](https://www.youtube.com/watch?v=hiuPP04-T60)
 - [Blueprint for Success](https://www.youtube.com/shorts/7YxoNZDtOlU)
