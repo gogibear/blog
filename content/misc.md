@@ -20,7 +20,7 @@ menu = 'main'
 - [Always Accept a Free Sandwich](https://www.youtube.com/shorts/07E0Lq3BPHA)
 - Juicy Smouliet
 <video controls width="100%">
-  <source src="https://pub-bbc014f6e3534222a6619f875eff3232.r2.dev/juicy%20smouliet.mp4" type="video/mp4">
+  <source src="https://pub-bbc014f6e3534222a6619f875eff3232.r2.dev/juicy-smouliet.mp4" type="video/mp4">
 </video>
 - [Try Not to Laugh](https://www.youtube.com/watch?v=0f2AUIdjP0k)
 - [Theo Von & Bobby Lee](https://www.youtube.com/watch?v=hiuPP04-T60)
