@@ -78,7 +78,7 @@ menu = 'main'
 - [What Will Your Verse Be?](https://media.gogibear.com/videos/what-will-your-verse-be%3F.mp4)
 - [The Laughing Heart](https://media.gogibear.com/videos/the-laughing-heart.mp4)
 - [If](https://media.gogibear.com/videos/if.mp4)
-- [On Foot](https://media.gogibear.com/images/on-foot.mp4)
+- [On Foot](https://media.gogibear.com/images/on-foot.jpeg)
 - [Ian Mckellen Reciting Shakespeare](https://media.gogibear.com/videos/ian-mckellen-reciting-shakespeare.mp4)
 - [Maybe Maybe Maybe](https://media.gogibear.com/videos/maybe-maybe-maybe.mp4)
 - [Miles Davis](https://media.gogibear.com/videos/miles-davis.mp4)
