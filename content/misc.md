@@ -6,35 +6,66 @@ menu = 'main'
 <div class="section">
 <div class="section-title">Funny</div>
 
-- [Shaq](https://www.youtube.com/watch?v=a1SOT9WUb-I)
-- [White Privilege](https://www.youtube.com/watch?v=MvzwmoZaNHQ)
-- [Karl Kidnapped](https://www.youtube.com/watch?v=KQ-qDCR8KQs)
-- [First Aid Fail](https://www.youtube.com/watch?v=Vmb1tqYqyII)
-- [It's Always Sunny - Best of Season 4](https://www.youtube.com/watch?v=wdM5FPJer6w)
-- [Rants About Mask Wearing](https://www.youtube.com/watch?v=tSKVXl-WnrA)
-- [First Encounter with Kanye West](https://www.youtube.com/watch?v=R4SYIfhzMmU)
-- [Little Kid LOVES Banana](https://www.youtube.com/watch?v=RyM-8yUpP5s)
-- [Learn English with Ricky Gervais](https://www.youtube.com/watch?v=Xw2bTpyHGCE)
-- [Coach Hears His Translator for the First Time](https://www.reddit.com/r/funny/comments/wqx5p3/coach_hears_his_translator_for_the_first_time/)
-- [Handicap Police](https://www.youtube.com/watch?v=Mqd79FlNzME)
-- [Always Accept a Free Sandwich](https://www.youtube.com/shorts/07E0Lq3BPHA)
+- [Always Accept A Free Sandwich](https://media.gogibear.com/videos/always-accept-a-free-sandwich.mp4)
+- [Always Sunny Season 4 Highlights](https://media.gogibear.com/videos/always-sunny-season-4-highlights.mp4)
+- [Basketball Post Game](https://media.gogibear.com/videos/basketball-post-game.mp4)
+- [Bebe](https://media.gogibear.com/videos/bebe.mp4)
+- [Best Moonwalk Ever](https://media.gogibear.com/videos/best-moonwalk-ever.mp4)
+- [Birthday Gift](https://media.gogibear.com/videos/birthday-gift.mp4)
+- [Blueprint For Success](https://media.gogibear.com/videos/blueprint-for-success.mp4)
+- [Coach Hears Translator For The First Time](https://media.gogibear.com/videos/coach-hears-translator-for-the-first-time.mp4)
+- [Comparing Cup Sizes](https://media.gogibear.com/videos/comparing-cup-sizes.mp4)
+- [Crack Dealer With A Heart Of Gold](https://media.gogibear.com/videos/crack-dealer-with-a-heart-of-gold.mp4)
+- [First Aid Fail](https://media.gogibear.com/videos/first-aid-fail.mp4)
+- [First Encounter With Kanye West](https://media.gogibear.com/videos/first-encounter-with-kanye-west.mp4)
+- [Girls When Things Are Going Well](https://media.gogibear.com/videos/girls-when-things-are-going-well.mp4)
+- [Good Grief](https://media.gogibear.com/videos/good-grief.mp4)
+- [Grieving](https://media.gogibear.com/videos/grieving.mp4)
+- [Handicap Police](https://media.gogibear.com/videos/handicap-police.mp4)
+- [Hoes At The Club](https://media.gogibear.com/videos/hoes-at-the-club.mp4)
+- [Is It Edible](https://media.gogibear.com/videos/is-it-edible.mp4)
+- [Jason Statham](https://media.gogibear.com/videos/jason-statham.mp4)
 - [Juicy Smouliet](https://media.gogibear.com/videos/juicy-smouliet.mp4)
-- [Try Not to Laugh](https://www.youtube.com/watch?v=0f2AUIdjP0k)
-- [Theo Von & Bobby Lee](https://www.youtube.com/watch?v=hiuPP04-T60)
-- [Blueprint for Success](https://www.youtube.com/shorts/7YxoNZDtOlU)
-- [Crack Dealer with a Heart of Gold](https://www.youtube.com/watch?v=f7DqQ5lOlaU)
-- [Trump & Biden on Kill Tony](https://www.youtube.com/watch?v=ZgHR4ug866Q)
-- [Who da fook is that guy?](https://x.com/HappyPunch/status/1813923381240013027)
-- [Hands On](https://x.com/barstoolsports/status/1829004422254379413)
-- [Favourite Magic Trick](https://x.com/Grahfvillainy/status/1844855456361046323)
-- [Dagestan](https://x.com/BenTheBaneDavis/status/1866542595155038267)
+- [Karl Kidnapped](https://media.gogibear.com/videos/karl-kidnapped.mp4)
+- [Key And Peele Bloopers](https://media.gogibear.com/videos/key-and-peele-bloopers.mp4)
+- [King And Queen](https://media.gogibear.com/videos/king-and-queen.mp4)
+- [Learn English](https://media.gogibear.com/videos/learn-english.mp4)
+- [Lets Talk About 911](https://media.gogibear.com/videos/lets-talk-about-911.mp4)
+- [Olympic Medalists](https://media.gogibear.com/videos/olympic-medalists.mp4)
+- [Panic At The Disco](https://media.gogibear.com/videos/panic-at-the-disco.mp4)
+- [Physical Comedy](https://media.gogibear.com/videos/physical-comedy.mp4)
+- [Police Lineup](https://media.gogibear.com/videos/police-lineup.mp4)
+- [Prayers](https://media.gogibear.com/videos/prayers.mp4)
+- [Prescription Medicine](https://media.gogibear.com/videos/prescription-medicine.mp4)
+- [Racism](https://media.gogibear.com/videos/racism.mp4)
+- [Rants About Wearing A Mask](https://media.gogibear.com/videos/rants-about-wearing-a-mask.mp4)
+- [Saying Bad Words](https://media.gogibear.com/videos/saying-bad-words.mp4)
+- [Shaq](https://media.gogibear.com/videos/shaq.mp4)
+- [Snap My Fingers](https://media.gogibear.com/videos/snap-my-fingers.mp4)
+- [Theo Von Bobby Lee](https://media.gogibear.com/videos/theo-von-bobby-lee.mp4)
+- [Try Not To Laugh](https://media.gogibear.com/videos/try-not-to-laugh.mp4)
+- [Type Shit](https://media.gogibear.com/videos/type-shit.mp4)
+- [White Privilege](https://media.gogibear.com/videos/white-privilege.mp4)
+- [Who Da Fook Is That Guy](https://media.gogibear.com/videos/who-da-fook-is-that-guy.mp4)
+- [Wife In A Coma](https://media.gogibear.com/videos/wife-in-a-coma.mp4)
 
 </div>
 
 <div class="section">
 <div class="section-title">Wholesome</div>
 
-- [Shaq](https://www.youtube.com/watch?v=a1SOT9WUb-I)
+- [Baby Ducks](https://media.gogibear.com/videos/baby-ducks.mp4)
+- [Bro Trusts The Whole World](https://media.gogibear.com/videos/bro-trusts-the-whole-world.mp4)
+- [Cuddles](https://media.gogibear.com/videos/cuddles.mp4)
+- [Dog Vs Butterfly](https://media.gogibear.com/videos/dog-vs-butterfly.mp4)
+- [Dont Hate On Me](https://media.gogibear.com/videos/dont-hate-on-me.mp4)
+- [Goat Vs Calves](https://media.gogibear.com/videos/goat-vs-calves.mp4)
+- [Goat Vs Goat](https://media.gogibear.com/videos/goat-vs-goat.mp4)
+- [High Five](https://media.gogibear.com/videos/high-five.mp4)
+- [Mental Health](https://media.gogibear.com/videos/mental-health.mp4)
+- [Pervert](https://media.gogibear.com/videos/pervert.mp4)
+- [Pony Courage](https://media.gogibear.com/videos/pony-courage.mp4)
+- [Rhino Vs Deer](https://media.gogibear.com/videos/rhino-vs-deer.mp4)
 
 </div>
 
@@ -48,6 +79,14 @@ menu = 'main'
 - [The Laughing Heart](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [If](https://www.youtube.com/watch?v=NOAJahPJIRU)
 - [On Foot](https://x.com/DylanoA4/status/1849504582252065264)
+- [Ian Mckellen Reciting Shakespeare](https://media.gogibear.com/videos/ian-mckellen-reciting-shakespeare.mp4)
+- [Maybe Maybe Maybe](https://media.gogibear.com/videos/maybe-maybe-maybe.mp4)
+- [Miles Davis](https://media.gogibear.com/videos/miles-davis.mp4)
+- [Name A Sound Better Than This](https://media.gogibear.com/videos/name-a-sound-better-than-this.mp4)
+- [No One Told Him It Was Impossible](https://media.gogibear.com/videos/no-one-told-him-it-was-impossible.mp4)
+- [The Beautiful Game](https://media.gogibear.com/videos/the-beautiful-game.mp4)
+- [Wait For It](https://media.gogibear.com/videos/wait-for-it.mp4)
+- [Wolfpack](https://media.gogibear.com/videos/wolfpack.mp4)
 
 </div>
 
@@ -56,6 +95,7 @@ menu = 'main'
 
 - [Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 - [Improve Your Communication](https://x.com/InterestingSTEM/status/1853381454681571493)
+- [How To Tie A Tie](https://media.gogibear.com/videos/how-to-tie-a-tie.mp4)
 
 </div>
 
@@ -79,6 +119,13 @@ menu = 'main'
 - [Hype](https://x.com/sherlock_hodles/status/1864499940531073040)
 - [Don't Know Much - Linda Ronstadt & Aaron Neville](https://x.com/aTeXan575/status/1785407142821802172)
 - [Yeern 101 but the beat is Black&Blue](https://x.com/spectre0799/status/1872728580729520380)
+- [Antler Music](https://media.gogibear.com/videos/antler-music.mp4)
+- [If This World Were Mine](https://media.gogibear.com/videos/if-this-world-were-mine.mp4)
+- [If You Know You Know But The Beat Is Bad Chem](https://media.gogibear.com/videos/if-you-know-you-know-but-the-beat-is-bad-chem.mp4)
+- [Kiss Me](https://media.gogibear.com/videos/kiss-me.mp4)
+- [MGMT Kids](https://media.gogibear.com/videos/mgmt-kids.mp4)
+- [Stephen Wilson Junior Gary](https://media.gogibear.com/videos/stephen-wilson-junior-gary.mp4)
+- [Yukon](https://media.gogibear.com/videos/yukon.mp4)
 
 </div>
 
