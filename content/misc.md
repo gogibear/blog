@@ -78,7 +78,7 @@ menu = 'main'
 - [What will your Verse be?](https://www.youtube.com/watch?v=-7OE6bDfM2M)
 - [The Laughing Heart](https://www.youtube.com/watch?v=z1PSbDmV8Gw)
 - [If](https://www.youtube.com/watch?v=NOAJahPJIRU)
-- [On Foot](https://x.com/DylanoA4/status/1849504582252065264)
+- [On Foot](https://media.gogibear.com/images/on-foot.mp4)
 - [Ian Mckellen Reciting Shakespeare](https://media.gogibear.com/videos/ian-mckellen-reciting-shakespeare.mp4)
 - [Maybe Maybe Maybe](https://media.gogibear.com/videos/maybe-maybe-maybe.mp4)
 - [Miles Davis](https://media.gogibear.com/videos/miles-davis.mp4)
