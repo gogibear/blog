@@ -73,9 +73,9 @@ menu = 'main'
 <div class="section-title">Inspiring</div>
 
 - [Heaven and Hell](https://countdowntotimelessness.wordpress.com/2012/04/20/ram-dass-heaven-and-hell/)
-- ["Life Is Beautiful" Wins Foreign Language Film](https://media.gogibear.com/videos/"life-is-beautiful"-wins-foreign-language-film.mp4)
+- ["Life Is Beautiful" Wins Foreign Language Film](https://media.gogibear.com/videos/%22life-is-beautiful%22-wins-foreign-language-film.mp4)
 - [Roberto Benigni Wins Best Actor](https://media.gogibear.com/videos/roberto-benigni-wins-best-actor.mp4)
-- [What Will Your Verse Be?](https://media.gogibear.com/videos/what-will-your-verse-be?.mp4)
+- [What Will Your Verse Be?](https://media.gogibear.com/videos/what-will-your-verse-be%3F.mp4)
 - [The Laughing Heart](https://media.gogibear.com/videos/the-laughing-heart.mp4)
 - [If](https://media.gogibear.com/videos/if.mp4)
 - [On Foot](https://media.gogibear.com/images/on-foot.mp4)
