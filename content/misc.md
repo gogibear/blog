@@ -93,7 +93,6 @@ menu = 'main'
 <div class="section">
 <div class="section-title">Educational</div>
 
-- [Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 - [Improve Your Communication](https://x.com/InterestingSTEM/status/1853381454681571493)
 - [How To Tie A Tie](https://media.gogibear.com/videos/how-to-tie-a-tie.mp4)
 
