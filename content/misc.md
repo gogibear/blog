@@ -75,7 +75,7 @@ menu = 'main'
 - [Heaven and Hell](https://countdowntotimelessness.wordpress.com/2012/04/20/ram-dass-heaven-and-hell/)
 - ["Life Is Beautiful" Wins Foreign Language Film](https://media.gogibear.com/videos/"life-is-beautiful"-wins-foreign-language-film.mp4)
 - [Roberto Benigni Wins Best Actor](https://media.gogibear.com/videos/roberto-benigni-wins-best-actor.mp4)
-- [What will your Verse be?](https://media.gogibear.com/videos/what-will-your-verse-be?.mp4)
+- [What Will Your Verse Be?](https://media.gogibear.com/videos/what-will-your-verse-be?.mp4)
 - [The Laughing Heart](https://media.gogibear.com/videos/the-laughing-heart.mp4)
 - [If](https://media.gogibear.com/videos/if.mp4)
 - [On Foot](https://media.gogibear.com/images/on-foot.mp4)
