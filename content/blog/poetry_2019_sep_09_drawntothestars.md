@@ -1,7 +1,7 @@
 +++
-title = "Drawn to the Stars"
-date = "2019-09-09T15:31:52-08:00"
-description = "gogibear, poetry, drawn to the stars"
+title = "6 Bullets"
+date = "2019-09-15T15:31:52-08:00"
+description = "gogibear, poetry, 6 bullets"
 tags = ["poetry"]
 +++
 
