@@ -1,7 +1,7 @@
 +++
-title = "Third Eye"
-date = "2019-09-10T15:31:52-08:00"
-description = "gogibear, poetry, third eye"
+title = "Two They Have"
+date = "2019-09-15T15:31:52-08:00"
+description = "gogibear, poetry, two they have"
 tags = ["poetry"]
 +++
 
