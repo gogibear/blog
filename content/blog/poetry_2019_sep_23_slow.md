@@ -10,7 +10,7 @@ The way you leaned your ear towards my heart.<br>
 I would gladly shape each syllable of the sound of light,<br>
 with my lips again.<br>
 
-This&nbsp;&nbsp;&nbsp;&nbsp;time<br>
+This time<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;go<br>
