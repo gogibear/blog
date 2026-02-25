@@ -1,7 +1,7 @@
 +++
-title = "Heartbeat"
+title = "S l o w"
 date = "2019-09-17T15:31:52-08:00"
-description = "gogibear, poetry, heartbeat"
+description = "gogibear, poetry, slow"
 tags = ["poetry"]
 +++
 
