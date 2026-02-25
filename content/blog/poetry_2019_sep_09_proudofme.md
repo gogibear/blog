@@ -1,6 +1,6 @@
 +++
 title = "Proud of Me"
-date = "2019-09-09T15:57:21-08:00"
+date = "2019-09-08T15:57:21-08:00"
 
 description = "gogibear, poetry, proud of me"
 
