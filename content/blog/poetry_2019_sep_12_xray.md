@@ -1,7 +1,7 @@
 +++
-title = "X-Ray"
-date = "2019-09-12T15:31:52-08:00"
-description = "gogibear, poetry, x-ray"
+title = "Worth It"
+date = "2019-09-18T15:31:52-08:00"
+description = "gogibear, poetry, worth it"
 tags = ["poetry"]
 +++
 
