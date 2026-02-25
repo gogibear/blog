@@ -1,7 +1,7 @@
 +++
-title = "Footprints"
-date = "2019-09-11T15:31:52-08:00"
-description = "gogibear, poetry, footprints"
+title = "Joy Division"
+date = "2019-09-17T15:31:52-08:00"
+description = "gogibear, poetry, joy division"
 tags = ["poetry"]
 +++
 
