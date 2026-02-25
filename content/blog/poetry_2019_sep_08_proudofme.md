@@ -1,7 +1,7 @@
 +++
-title = "Proud of Me"
-date = "2019-09-08T15:31:52-08:00"
-description = "gogibear, poetry, proud of me"
+title = "Thanks for Noticing"
+date = "2019-09-13T15:31:52-08:00"
+description = "gogibear, poetry, thanks for noticing"
 tags = ["poetry"]
 +++
 
