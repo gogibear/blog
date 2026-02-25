@@ -1,7 +1,7 @@
 +++
-title = "New Muscles"
-date = "2019-09-16T15:31:52-08:00"
-description = "gogibear, poetry, new muscles"
+title = "Colour of Reality"
+date = "2019-09-22T15:31:52-08:00"
+description = "gogibear, poetry, colour of reality"
 tags = ["poetry"]
 +++
 
