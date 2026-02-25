@@ -1,0 +1,10 @@
++++
+title = "Moon"
+date = "2019-09-21T15:31:52-08:00"
+description = "gogibear, poetry, moon"
+tags = ["poetry"]
++++
+
+Darling, if you're going to decide you're the moon,<br>
+
+you have to surround yourself with people that make you shine!<br>
