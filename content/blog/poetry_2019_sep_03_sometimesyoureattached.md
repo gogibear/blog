@@ -1,7 +1,7 @@
 +++
-title = "Sometimes You're Attached"
-date = "2019-09-03T15:31:52-08:00"
-description = "gogibear, poetry, sometimes you're attached"
+title = "The Desert Smiled"
+date = "2019-09-12T15:31:52-08:00"
+description = "gogibear, poetry, the desert smiled"
 tags = ["poetry"]
 +++
 
