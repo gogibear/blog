@@ -1,6 +1,6 @@
 +++
 title = "Undress Themselves"
-date = "2019-09-20T15:31:52-08:00"
+date = "2019-09-26T15:31:52-08:00"
 description = "gogibear, poetry, undress themselves"
 tags = ["poetry"]
 +++
