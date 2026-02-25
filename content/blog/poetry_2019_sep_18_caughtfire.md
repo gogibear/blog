@@ -1,7 +1,7 @@
 +++
-title = "Caught Fire"
+title = "Wake Up"
 date = "2019-09-18T15:31:52-08:00"
-description = "gogibear, poetry, caught fire"
+description = "gogibear, poetry, wake up"
 tags = ["poetry"]
 +++
 
