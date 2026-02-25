@@ -72,6 +72,8 @@ menu = 'main'
 <div class="section">
 <div class="section-title">Inspiring</div>
 
+- [Emmanuel on Fear](https://media.gogibear.com/videos/
+ramdass-emmanuel-fear.mp4)
 - [Heaven and Hell](https://countdowntotimelessness.wordpress.com/2012/04/20/ram-dass-heaven-and-hell/)
 - ["Life Is Beautiful" Wins Foreign Language Film](https://media.gogibear.com/videos/%22life-is-beautiful%22-wins-foreign-language-film.mp4)
 - [Roberto Benigni Wins Best Actor](https://media.gogibear.com/videos/roberto-benigni-wins-best-actor.mp4)
