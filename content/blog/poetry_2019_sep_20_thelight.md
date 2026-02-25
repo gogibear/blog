@@ -1,7 +1,7 @@
 +++
-title = "The Light"
+title = "Undress Themselves"
 date = "2019-09-20T15:31:52-08:00"
-description = "gogibear, poetry, the light"
+description = "gogibear, poetry, undress themselves"
 tags = ["poetry"]
 +++
 
