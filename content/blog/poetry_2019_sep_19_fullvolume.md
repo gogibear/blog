@@ -1,7 +1,7 @@
 +++
-title = "Full Volume"
-date = "2019-09-19T15:31:52-08:00"
-description = "gogibear, poetry, full volume"
+title = "Dramatic"
+date = "2019-09-25T15:31:52-08:00"
+description = "gogibear, poetry, dramatic"
 tags = ["poetry"]
 +++
 
