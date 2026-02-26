@@ -54,3 +54,7 @@ hideMadeWithLine = true
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-HEQE89GWPF"
