@@ -1,6 +1,6 @@
 +++
 title = "Come This Way"
-date = "2026-09-30T00:00:00-08:00"
+date = "2019-09-30T00:00:00-08:00"
 description = "gogibear, poetry, come this way"
 
 tags = ["poetry"]
