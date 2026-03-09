@@ -1,0 +1,28 @@
++++
+title = "Stop Comparing"
+date = "2026-02-26T00:00:00-08:00"
+description = "gogibear, poetry, stop comparing"
+
+tags = ["poetry"]
++++
+
+Stop comparing! That’s the straightest road to cloud nine.<br>
+
+Like on the days I cut straight across the track,<br>
+
+And claim every molecule as part of my pack.<br>
+
+I rest easy these days, so easy in fact,<br>
+
+Each night I die, and let go of every fear you’ve ever<br>
+surmised.<br>
+
+And in the morning I’m born again with fresh eyes,<br>
+
+Today I was a Bumblebee,<br>
+
+Just looking to sniff a pretty flower,<br>
+
+And when I’m lucky taste a kiss as sweet as honey.<br>
+
+Gogan<br>
