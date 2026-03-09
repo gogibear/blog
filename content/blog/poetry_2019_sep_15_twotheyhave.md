@@ -1,7 +1,7 @@
 +++
-title = "Two They Have"
+title = "Start Here"
 date = "2019-09-15T15:31:52-08:00"
-description = "gogibear, poetry, two they have"
+description = "gogibear, poetry, start here"
 tags = ["poetry"]
 +++
 
