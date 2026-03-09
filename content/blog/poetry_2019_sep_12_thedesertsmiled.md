@@ -1,7 +1,7 @@
 +++
-title = "The Desert Smiled"
+title = "Nirvana"
 date = "2019-09-12T15:31:52-08:00"
-description = "gogibear, poetry, the desert smiled"
+description = "gogibear, poetry, nirvana"
 tags = ["poetry"]
 +++
 
