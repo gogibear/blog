@@ -1,7 +1,7 @@
 +++
-title = "Anger’s Wasps"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, anger's wasps"
+title = "Pins In My Existence"
+date = "2026-10-02T00:00:00-08:00"
+description = "gogibear, poetry, pins in my existence"
 
 tags = ["poetry"]
 +++
