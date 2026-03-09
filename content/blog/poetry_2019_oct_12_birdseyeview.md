@@ -1,5 +1,5 @@
 +++
-title = "A Bigger Work"
+title = "Bird's Eye View"
 date = "2019-10-12T00:00:00-08:00"
 description = "gogibear, poetry, bird's eye view"
 
