@@ -1,7 +1,7 @@
 +++
-title = "Afraid Of Losses"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, afraid of losses"
+title = "Come This Way"
+date = "2026-09-30T00:00:00-08:00"
+description = "gogibear, poetry, come this way"
 
 tags = ["poetry"]
 +++
