@@ -1,7 +1,7 @@
 +++
-title = "Blame In A Bucket (Spilling Milk)"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, blame in a bucket spilling milk"
+title = "Spilled Milk"
+date = "2019-09-28T00:00:00-08:00"
+description = "gogibear, poetry, spilled milk"
 
 tags = ["poetry"]
 +++
