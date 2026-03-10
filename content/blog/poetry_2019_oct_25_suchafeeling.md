@@ -1,7 +1,7 @@
 +++
-title = "The Soul Of Nature"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, the soul of nature"
+title = "Such A Feeling"
+date = "2019-10-25T00:00:00-08:00"
+description = "gogibear, poetry, such a feeling"
 
 tags = ["poetry"]
 +++
