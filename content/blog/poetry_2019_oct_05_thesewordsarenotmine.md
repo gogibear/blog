@@ -1,7 +1,7 @@
 +++
-title = "Golden Bricks"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, golden bricks"
+title = "These Words Are Not Mine"
+date = "2019-10-05T00:00:00-08:00"
+description = "gogibear, poetry, these words are not mine"
 
 tags = ["poetry"]
 +++
