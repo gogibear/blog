@@ -1,7 +1,7 @@
 +++
-title = "Shivers With Delight"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, shivers with delight"
+title = "Was That Just Me?"
+date = "2019-10-06T00:00:00-08:00"
+description = "gogibear, poetry, was that just me"
 
 tags = ["poetry"]
 +++
