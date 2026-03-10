@@ -1,7 +1,7 @@
 +++
-title = "Not All Doctors Are Healers"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, not all doctors are healers"
+title = "Honeydew"
+date = "2019-10-30T00:00:00-08:00"
+description = "gogibear, poetry, honeydew"
 
 tags = ["poetry"]
 +++
