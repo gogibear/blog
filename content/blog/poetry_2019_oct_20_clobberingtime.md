@@ -1,7 +1,7 @@
 +++
-title = "What’s Really Bothering You"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, what's really bothering you"
+title = "Clobbering Time"
+date = "2019-10-20T00:00:00-08:00"
+description = "gogibear, poetry, clobbering time"
 
 tags = ["poetry"]
 +++
