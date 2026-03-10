@@ -1,7 +1,7 @@
 +++
-title = "Obscured The Stars"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, obscured the stars"
+title = "Eyes To See"
+date = "2019-10-08T00:00:00-08:00"
+description = "gogibear, poetry, eyes to see"
 
 tags = ["poetry"]
 +++
