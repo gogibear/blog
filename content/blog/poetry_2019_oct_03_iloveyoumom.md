@@ -1,7 +1,7 @@
 +++
-title = "Material Love"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, material love"
+title = "I Love You Mom"
+date = "2019-10-03T00:00:00-08:00"
+description = "gogibear, poetry, i love you mom"
 
 tags = ["poetry"]
 +++
