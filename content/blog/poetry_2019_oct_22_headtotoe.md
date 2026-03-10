@@ -1,7 +1,7 @@
 +++
-title = "Speak Up For Love"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, speak up for love"
+title = "Head To Toe"
+date = "2019-10-22T00:00:00-08:00"
+description = "gogibear, poetry, head to toe"
 
 tags = ["poetry"]
 +++
