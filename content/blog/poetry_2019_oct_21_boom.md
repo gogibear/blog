@@ -1,7 +1,7 @@
 +++
-title = "Mountain Of Gunpowder"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, mountain of gunpowder"
+title = "Boom"
+date = "2019-10-21T00:00:00-08:00"
+description = "gogibear, poetry, boom"
 
 tags = ["poetry"]
 +++
