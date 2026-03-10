@@ -1,6 +1,6 @@
 +++
 title = "Open Water"
-date = "2026-02-26T00:00:00-08:00"
+date = "2019-10-01T00:00:00-08:00"
 description = "gogibear, poetry, open water"
 
 tags = ["poetry"]
