@@ -1,7 +1,7 @@
 +++
-title = "Pile Of Grain"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, pile of grain"
+title = "Loaf Of Bread"
+date = "2019-10-14T00:00:00-08:00"
+description = "gogibear, poetry, loaf of bread"
 
 tags = ["poetry"]
 +++
