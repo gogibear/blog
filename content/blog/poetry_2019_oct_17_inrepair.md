@@ -1,7 +1,7 @@
 +++
-title = "Other Side Of A Magnet"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, other side of a magnet"
+title = "In Repair"
+date = "2019-10-17T00:00:00-08:00"
+description = "gogibear, poetry, in repair"
 
 tags = ["poetry"]
 +++
