@@ -1,7 +1,7 @@
 +++
-title = "Too Much Of A Good Thing"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, too much of a good thing"
+title = "Isn't Love"
+date = "2019-10-07T00:00:00-08:00"
+description = "gogibear, poetry, isnt love"
 
 tags = ["poetry"]
 +++
