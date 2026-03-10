@@ -1,7 +1,7 @@
 +++
-title = "Stop Comparing"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, stop comparing"
+title = "Bumblebee"
+date = "2019-10-10T00:00:00-08:00"
+description = "gogibear, poetry, bumblebee"
 
 tags = ["poetry"]
 +++
