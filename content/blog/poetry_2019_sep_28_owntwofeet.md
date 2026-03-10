@@ -1,7 +1,7 @@
 +++
-title = "Blame In A Bucket"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, blame in a bucket"
+title = "Own Two Feet"
+date = "2019-09-28T00:00:00-08:00"
+description = "gogibear, poetry, own two feet"
 
 tags = ["poetry"]
 +++
