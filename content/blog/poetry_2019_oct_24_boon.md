@@ -1,7 +1,7 @@
 +++
-title = "Sun In My Stomach"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, sun in my stomach"
+title = "Boon"
+date = "2019-10-24T00:00:00-08:00"
+description = "gogibear, poetry, boon"
 
 tags = ["poetry"]
 +++
