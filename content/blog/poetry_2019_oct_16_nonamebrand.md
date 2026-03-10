@@ -1,7 +1,7 @@
 +++
-title = "No Label"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, no label"
+title = "No Name Brand"
+date = "2019-10-16T00:00:00-08:00"
+description = "gogibear, poetry, no name brand"
 
 tags = ["poetry"]
 +++
