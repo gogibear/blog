@@ -1,7 +1,7 @@
 +++
-title = "Reflection Of All Of You"
-date = "2026-02-26T00:00:00-08:00"
-description = "gogibear, poetry, reflection of all of you"
+title = "Very Beautiful"
+date = "2019-10-11T00:00:00-08:00"
+description = "gogibear, poetry, very beautiful"
 
 tags = ["poetry"]
 +++
