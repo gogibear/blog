@@ -195,6 +195,43 @@
       padding-left: 30px;
     }
 
+    /* Social icons in nav */
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .social-icons {
+      margin-left: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .social-icons a {
+      color: inherit;
+      opacity: 0.35;
+      transition: opacity 0.2s ease;
+      display: inline-flex;
+      line-height: 1;
+    }
+
+    .social-icons a:hover {
+      opacity: 1;
+      background: none !important;
+    }
+
+    .social-icons a::before {
+      content: none;
+    }
+
+    .social-icons svg {
+      width: 15px;
+      height: 15px;
+    }
+
     @media (prefers-color-scheme: dark) {
       body {
         background: #28282b !important;
@@ -207,6 +244,11 @@
       nav a:hover {
         color: #28282b;
         background: white;
+      }
+
+      .social-icons a:hover {
+        background: none !important;
+        color: whitesmoke !important;
       }
 
       a {
