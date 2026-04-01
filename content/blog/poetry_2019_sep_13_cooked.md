@@ -1,7 +1,7 @@
 +++
-title = "Thanks for Noticing"
+title = "Cooked"
 date = "2019-09-13T15:31:52-08:00"
-description = "gogibear, poetry, thanks for noticing"
+description = "gogibear, poetry, cooked"
 tags = ["poetry"]
 +++
 
