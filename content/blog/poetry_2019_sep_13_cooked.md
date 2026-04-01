@@ -5,7 +5,7 @@ description = "gogibear, poetry, cooked"
 tags = ["poetry"]
 +++
 
-You are beautiful today,<br>
+You are beautiful today.<br>
 
 I go to the gym to shed<br>
 all the ideas that I'm not.<br>
