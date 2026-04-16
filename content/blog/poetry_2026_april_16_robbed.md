@@ -14,7 +14,7 @@ They took countless treasures.<br>
 
 When the thieves were captured, there was a trial and I had to take the stand,<br>
 
-Luckily, my testimony was, I still need to find an adequate word for how amazing it was,<br>
+Luckily, my testimony was, I still need to find an adequate word for how *amazing* it was,<br>
 
 but the jury quickly voted in my favour.<br>
 
@@ -30,7 +30,7 @@ One you should seal in an envelope, address it 'Love Letter',<br>
 in case you stumble across an irresistable smile.<br>
 
 Carefully store one in a knapsack,<br>
-for any journeys you absolutely should NOT go on alone.<br>
+for any journeys you absolutely should **NOT** go on alone.<br>
 
 Keep one in the shed, so when you tell people you're being very very productive,<br>
 you have something to pair with your bottle of wine.<br>
