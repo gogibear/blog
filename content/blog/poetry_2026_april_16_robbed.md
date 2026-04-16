@@ -14,7 +14,7 @@ They took countless treasures.<br>
 
 When the thieves were captured, there was a trial and I had to take the stand,<br>
 
-Luckily, my testimony was, I still need to find an adequate word for how *amazing* it was,<br>
+Luckily, my testimony... I still need to find an adequate word for how *amazing* it was,<br>
 
 but the jury quickly voted in my favour.<br>
 
