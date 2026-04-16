@@ -1,7 +1,7 @@
 +++
-title = "Robbed"
+title = "Robbery"
 date = "2026-04-16T00:00:00-08:00"
-description = "gogibear, poetry, robbed"
+description = "gogibear, poetry, robbery"
 
 tags = ["poetry"]
 +++
