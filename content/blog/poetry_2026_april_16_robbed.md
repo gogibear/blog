@@ -27,7 +27,7 @@ One you should keep in your back pocket,<br>
 if you run across a cute bumblebee you're having trouble charming.<br>
 
 One you should seal in an envelope, address it 'Love Letter',<br>
-in case you stumble across an irresistable smile.<br>
+in case you chance upon an irresistable smile.<br>
 
 Carefully store one in a knapsack,<br>
 for any journeys you absolutely should **NOT** go on alone.<br>
